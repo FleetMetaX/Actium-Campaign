@@ -57,7 +57,7 @@ Below, we list known details, unknown or speculative aspects, and questions for 
 
 ## Call to Action
 
-We invite scholars to contribute primary sources, archaeological evidence, or secondary analyses to clarify Agrippa’s movements. Correct ambiguities in sources like Britannica and propose new interpretations. Submit via [new_entry.md](.github/ISSUE_TEMPLATE/new_entry.md) or [contested_entry.md](.github/ISSUE_TEMPLATE/contested_entry.md).
+We invite scholars to contribute primary sources, archaeological evidence, or secondary analyses to clarify Agrippa’s movements. Submit via [new_entry.md](.github/ISSUE_TEMPLATE/new_entry.md) or [contested_entry.md](.github/ISSUE_TEMPLATE/contested_entry.md).
 
 ## Notes
 
