@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : Actium Campaign
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : ""
+description              : "Marcus Vipsanius Agrippa’s movements, 31–29 BC."
 url                      : "https://davidrstansfield.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Actium-Campaign" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
