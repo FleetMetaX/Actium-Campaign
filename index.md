@@ -7,7 +7,7 @@ author_profile: false
 Investigating Marcus Vipsanius Agrippa’s movements between the Battle of Actium (September 2, 31 BC) and Octavian’s triumph in Rome (August 13, 29 BC).
 
 This project has moved to [Agrippas-Naval-Legacy](https://davidrstansfield.github.io/Agrippas-Naval-Legacy/). Please update your bookmarks.
-{: .notice--warning}
+{: .notice--danger}
 
 **Read:** [Known and Unknown Details](./actium_campaign)
 
